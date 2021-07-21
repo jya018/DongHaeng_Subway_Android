@@ -74,7 +74,7 @@
 <img width="500" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126448730-b1504d3c-f52b-4477-b5d4-d11b296cfaa2.png">
 
 > Class Diagram
-<img width="500" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126448757-90db80e4-406a-4030-b222-a2dfcf4a5d6e.png">
+<img width="500" height="500" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126448757-90db80e4-406a-4030-b222-a2dfcf4a5d6e.png">
 
 <br/>
 
