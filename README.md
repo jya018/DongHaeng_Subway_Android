@@ -97,6 +97,6 @@
 
 <역 주변 맛집 정보 - 기능 버튼 - 음성 인식 - 추가 기능>
 
-<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452737-cacde840-0628-448b-9b34-8ba2c598d8fe.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452754-51e5df85-6716-4200-bccf-efeb9984cdac.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452774-f376da4c-0f06-4c6c-a094-89d829473db7.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="![image](https://user-images.githubusercontent.com/55496667/126459181-d934e70a-5729-4953-b442-748d11f0355d.png)">
+<img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452737-cacde840-0628-448b-9b34-8ba2c598d8fe.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452754-51e5df85-6716-4200-bccf-efeb9984cdac.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452774-f376da4c-0f06-4c6c-a094-89d829473db7.png"> <img width="200" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126459295-b34270c9-ff7b-4084-bbbe-0b887e8928bc.png">
 
 <이용약관 - 길 찾기 - 도착시간 공유 - 도착 알람>
