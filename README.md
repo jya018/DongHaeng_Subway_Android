@@ -1,4 +1,4 @@
-# 🤔 지하철 애플리케이션 - 동행 
+# 🚊지하철 애플리케이션 - 동행 
 
 <img width="300" alt="스크린샷 2020-06-14 오후 11 02 32" src="https://user-images.githubusercontent.com/55496667/126437972-cca40656-39cf-4f00-a035-520894dbf7be.png">
 
@@ -63,7 +63,7 @@
 
 <br/>
 
-## ⚒   Project Conception
+## 🔎  Project Conception
 
 > 아이디어 창출
 <img width="500" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126448564-eb834bcc-b3b1-441f-bbaf-b7b6a577a914.png">
@@ -88,7 +88,7 @@
 
 <br/>  
 
-## 📱 프로젝트 최종 시연 화면
-<img alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452469-6820f8c8-6aee-4421-8ad7-1157f41d1946.png"> <img alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452915-626da035-6234-4e48-9915-fda57f02be87.png"> <img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452490-fe9f4961-53e9-49b7-abb6-387a5850679e.png">
+## 📢 프로젝트 최종 시연 화면
+<img alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452469-6820f8c8-6aee-4421-8ad7-1157f41d1946.png"> <img alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452915-626da035-6234-4e48-9915-fda57f02be87.png"> <img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452490-fe9f4961-53e9-49b7-abb6-387a5850679e.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126453283-19af9f0d-bc13-4c9f-8090-3b8ab44af17e.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452671-4ec03f49-f312-40f9-9b9c-52c0496bfc00.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452717-e0fc2b79-4b49-400b-942a-ee6e9355324e.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452723-f6b791a3-0760-46db-a61b-c7ab2f64ba50.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452727-f6641d42-1f0d-4b7a-8986-234ca67b8eb8.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452737-cacde840-0628-448b-9b34-8ba2c598d8fe.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452754-51e5df85-6716-4200-bccf-efeb9984cdac.png"><img  alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126452774-f376da4c-0f06-4c6c-a094-89d829473db7.png"><img width="500" height="950" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126453899-9813de02-a670-4063-8052-7ef394185864.png">
 
 <음성 인식 권한 허용 화면 - Splash - 역 선택 화면>
