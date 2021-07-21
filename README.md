@@ -45,15 +45,13 @@
 
     * `Prototype Development`, `Dijkstra Algorithm`, `SQLite`, `UI Design`
 
-  * **한병욱: Sub Developer**
-
-    * `SQLite`, `Data Management`, `UI Design`, `Dijkstra Algorithm`
-
   * **홍원일: Team Leader**
 
-  * **김민표: Sub Developer**
-  
   * **곽채훈: Main Developer**
+
+  * **한병욱: Sub Developer**
+
+  * **김민표: Sub Developer**
 
   * **강희수: UI Manager**
 
