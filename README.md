@@ -33,6 +33,9 @@
 ## About Project
 
 > 명지대학교 컴퓨터공학과 2019-2 팀프로젝트
+
+> 가상 지하철 노선도
+> <img width="500" height="400" alt="스크린샷 2020-06-14 오후 10 49 21" src="https://user-images.githubusercontent.com/55496667/126459449-87931d0a-d126-4216-84cb-de2aa89dec0b.png">
 <br/>
 
 ## ️🙋🏻‍♂️팀 구성
